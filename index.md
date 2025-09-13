@@ -1,3 +1,7 @@
+---
+layout: default
+title: Web Animation
+---
 [[2025-09-12_transition_|transition_]]
 [[2025-09-12_animation_|animation_]]
 [[2025-09-12_web-animation-API|web animation API]]
