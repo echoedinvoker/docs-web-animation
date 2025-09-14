@@ -1,4 +1,4 @@
-# update keyframe effect
+# Update Keyframe Effect
 
 In [buttons to call animation object methods](./2025-08-11_buttons-to-call-animation-object-methods.md), we can use the *animation object* methods to control the animation. But what if we want to change the animation itself?
 

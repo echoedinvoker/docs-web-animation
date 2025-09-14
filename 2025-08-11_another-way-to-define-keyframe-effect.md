@@ -1,4 +1,4 @@
-# another way to define keyframe effect
+# Another Way to Define Keyframe Effect
 
 ## Define options in the scope of the keyframe
 

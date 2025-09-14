@@ -1,4 +1,4 @@
-# exercise: speed up and down animations
+# Exercise: Speed Up and Down Animations
 
 ```html
 <!DOCTYPE html>

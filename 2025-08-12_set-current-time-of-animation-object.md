@@ -1,4 +1,4 @@
-# set current time of animation object
+# Set Current Time of Animation Object
 
 ```js
 document.addEventListener("DOMContentLoaded", () => {

@@ -1,4 +1,4 @@
-# finish promise and events
+# Finish Promise and Events
 
 Whenever we play an animation, a promise `finished` will be created for the animation object. This promise will resolve when the animation is finished.
 

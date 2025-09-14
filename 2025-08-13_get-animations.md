@@ -1,4 +1,4 @@
-# get animations
+# Get Animations
 
 ```html
 <!DOCTYPE html>

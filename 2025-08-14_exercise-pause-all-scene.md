@@ -1,4 +1,4 @@
-# exercise: pause all scene
+# Exercise: Pause All Scene
 
 ```html
 <!DOCTYPE html>

@@ -1,4 +1,4 @@
-# exercise: wheels
+# Exercise: Wheels
 
 ```js
 document.addEventListener("DOMContentLoaded", () => {

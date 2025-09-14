@@ -1,4 +1,4 @@
-# create first animation using web animations API
+# Create First Animation Using Web Animations API
 
 ```html
 <!DOCTYPE html>

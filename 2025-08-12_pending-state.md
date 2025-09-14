@@ -1,4 +1,4 @@
-# pending state
+# Pending State
 
 ## pending state and ready promise
 

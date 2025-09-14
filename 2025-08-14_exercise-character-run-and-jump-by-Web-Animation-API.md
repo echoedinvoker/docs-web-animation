@@ -1,4 +1,4 @@
-# exercise: character run and jump by Web Animation API
+# Exercise: Character Run and Jump by Web Animation API
 
 Before, we used CSS to implement the running and jumping animations of the character. This time, we will use the Web Animations API to achieve the same functionality. This exercise will help you become familiar with the basic usage of the Web Animations API.
 

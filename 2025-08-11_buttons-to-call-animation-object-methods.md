@@ -1,4 +1,4 @@
-# buttons to call animation object methods
+# Buttons to Call Animation Object Methods
 
 ```html
 <!DOCTYPE html>

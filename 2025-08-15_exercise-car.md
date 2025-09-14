@@ -1,4 +1,4 @@
-# exercise: car
+# Exercise: Car
 
 ## Create a static car and its wheels
 

@@ -1,4 +1,4 @@
-# theory of web animations API
+# Theory of Web Animations API
 
 Web Animations API has two models:
 

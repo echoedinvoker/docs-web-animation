@@ -1,4 +1,4 @@
-# exercise: moving road and signs
+# Exercise: Moving Road and Signs
 
 ```html
 <!DOCTYPE html>
@@ -123,3 +123,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.addEventListener("keyup", (event) => { ... });
 });
+```

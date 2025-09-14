@@ -1,4 +1,4 @@
-# when to use web animations API
+# When to Use Web Animations API
 
 Below we have an element called `square` and we apply a simple animation called `moveAndRotate` to it.
 

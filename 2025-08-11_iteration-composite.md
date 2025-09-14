@@ -1,4 +1,4 @@
-# iteration composite
+# Iteration Composite
 
 This is a feature of the Web Animations API that allows you to accumulate the effects of each iteration of an animation. It is not available in CSS animations, only in the Web Animations API.
 

@@ -1,4 +1,4 @@
-# exercise: shadow
+# Exercise: Shadow
 
 ```html
 <!DOCTYPE html>

@@ -1,4 +1,4 @@
-# get informations of animations
+# Get Informations of Animations
 
 Below, we add a button in the interface to obtain information about the animation object and animation effect.
 
