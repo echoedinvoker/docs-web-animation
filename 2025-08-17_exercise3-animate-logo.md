@@ -1,4 +1,4 @@
-# exercise3: animate logo
+# Exercise: Animate Logo
 
 ```html
   ...

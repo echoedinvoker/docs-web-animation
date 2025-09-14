@@ -1,4 +1,4 @@
-# exercise3: animate nav bg
+# Exercise: Animate Nav BG
 
 ```html
   <body>

@@ -1,4 +1,4 @@
-# exercise3: team background logo
+# Exercise: Team Background Logo
 
 ```html
     <div class="team">

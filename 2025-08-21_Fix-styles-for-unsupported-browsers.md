@@ -1,4 +1,4 @@
-# Fix styles for unsupported browsers
+# Fix Styles for Unsupported Browsers
 
 ```css
 /* hero.css */

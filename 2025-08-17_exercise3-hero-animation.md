@@ -1,4 +1,4 @@
-# exercise3: hero animation
+# Exercise: Hero Animation
 
 ```html
   <body>

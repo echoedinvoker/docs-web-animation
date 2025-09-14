@@ -1,4 +1,4 @@
-# exercise3: services 2
+# Exercise: Services 2
 
 ```html
     <div class="services">

@@ -1,4 +1,4 @@
-# exercise3: team
+# Exercise: Team
 
 ```html
     <div class="team">

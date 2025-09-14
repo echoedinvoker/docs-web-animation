@@ -1,4 +1,4 @@
-# exercise3: services
+# Exercise: Services
 
 ```html
 ...

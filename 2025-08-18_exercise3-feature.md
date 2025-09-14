@@ -1,4 +1,4 @@
-# exercise3: feature
+# Exercise: Feature
 
 ```html
   <body>

@@ -1,4 +1,4 @@
-# exercise3: hero animation: text part
+# Exercise: Hero Animation - Text Part
 
 ```html
   <body>
