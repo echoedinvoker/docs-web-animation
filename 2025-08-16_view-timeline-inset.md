@@ -67,7 +67,7 @@ In the example above, we used `animation-range` to control the start and end pos
 Edges refer to the starting and ending positions of the animation. By default, they are the top and bottom of the viewport. This means that the animation will start when the element enters the viewport and end when the element leaves the viewport.
 
 
-![what-are-edges.png](../assets/imgs/what-are-edges.png)
+![what-are-edges.png](./what-are-edges.png)
 
 
 ## `view-timeline-inset` to shift the edges
@@ -111,10 +111,10 @@ Edges refer to the starting and ending positions of the animation. By default, t
 
 ```
 
-![edge-start-animation.png](../assets/imgs/edge-start-animation.png)
+![edge-start-animation.png](./edge-start-animation.png)
 
 
-![edge-animation-end.png](../assets/imgs/edge-animation-end.png)
+![edge-animation-end.png](./edge-animation-end.png)
 
 ## One value for `view-timeline-inset`
 
@@ -137,9 +137,9 @@ If you only provide one value for `view-timeline-inset`, it will apply that valu
 ```
 
 
-![one-value-inset-start.png](../assets/imgs/one-value-inset-start.png)
+![one-value-inset-start.png](./one-value-inset-start.png)
 
-![one-value-edge-end.png](../assets/imgs/one-value-edge-end.png)
+![one-value-edge-end.png](./one-value-edge-end.png)
 
 ## If only need to shift the buttom edge
 
@@ -160,7 +160,7 @@ If you only need to shift the bottom edge, you can use `auto` for the top edge. 
 }
 ```
 
-![top-edge-no-shift-auto.png](../assets/imgs/top-edge-no-shift-auto.png)
+![top-edge-no-shift-auto.png](./top-edge-no-shift-auto.png)
 
 ## Pixel values in `view-timeline-inset`
 
@@ -182,7 +182,7 @@ If you only need to shift the bottom edge, you can use `auto` for the top edge. 
 ```
 
 
-![edge-shift-with-pixel.png](../assets/imgs/edge-shift-with-pixel.png)
+![edge-shift-with-pixel.png](./edge-shift-with-pixel.png)
 
 ## `view-timeline-inset` value can be negative
 
@@ -203,7 +203,7 @@ If you only need to shift the bottom edge, you can use `auto` for the top edge. 
 }
 ```
 
-![neg-edge-value.png](../assets/imgs/neg-edge-value.png)
+![neg-edge-value.png](./neg-edge-value.png)
 
 
 ## Combining `view-timeline-inset` with `animation-range`
@@ -225,5 +225,5 @@ If you only need to shift the bottom edge, you can use `auto` for the top edge. 
 }
 ```
 
-![combine-range-and-edge-start.png](../assets/imgs/combine-range-and-edge-start.png)
+![combine-range-and-edge-start.png](./combine-range-and-edge-start.png)
 
