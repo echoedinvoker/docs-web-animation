@@ -1,18 +1,5 @@
-# Title
-
-Test of title
-
-## Subtitle
-
-Test of subtitle
-
-```js
-console.log("Hello, world!");
-```
-
-### Test of link
-
-[New Node](./new-node.md)
-
-[New Node](./new-node.html)
-
+[transition_](./2025-09-12_transition_.md)
+[animation_](./2025-09-12_animation_.md)
+[web animation API](./2025-09-12_web-animation-API.md)
+[scroll timeline](./2025-09-12_scroll-timeline.md)
+[view transition API](./2025-09-12_view-transition-API.md)
