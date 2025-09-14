@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 ```
 
-![3s-start-time.png](../assets/imgs/3s-start-time.png)
+![3s-start-time.png](./3s-start-time.png)
 
 In the example above, we actively set the `startTime` property of the animation object to 3000 milliseconds, which means the animation will start playing at the 3-second mark on the timeline automatically. (With an additional delay of 1 second for the animation itself, we will see the animation start playing 4 seconds after the page loads)
 
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 ```
 
-![neg-1s-start-time.png](../assets/imgs/neg-1s-start-time.png)
+![neg-1s-start-time.png](./neg-1s-start-time.png)
 
 In the example above, startTime is set to a negative value, which happens to be the same as the animation's delay duration. This means that when the page loads, the animation will start playing immediately (skipping the delay time).
 
@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 ```
 
-![neg-5s-start-time.png](../assets/imgs/neg-5s-start-time.png)
+![neg-5s-start-time.png](./neg-5s-start-time.png)
 In the example above, we set startTime to a negative value, and the length is just the delay of the animation plus the length of 1 iteration. This means that when the page loads, the animation will directly play the content of the 2nd iteration, and there will be no delay.
 
 ## input for startTime

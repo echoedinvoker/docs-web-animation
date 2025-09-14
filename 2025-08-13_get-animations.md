@@ -100,7 +100,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 }
 ```
 
-![multi-animations.png](../assets/imgs/multi-animations.png)
+![multi-animations.png](./multi-animations.png)
 
 In the example above, we can see that there are three square elements, and a combination of CSS and Web Animations API is used to achieve multiple animation effects. We can use the `getAnimations()` method of the document to obtain all animations in the current document.
 

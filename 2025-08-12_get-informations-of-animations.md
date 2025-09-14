@@ -221,7 +221,7 @@ computedTiming: {
 
 ## Populate inputs with animation information
 
-![wrong-init-state-of-inputs.png](../assets/imgs/wrong-init-state-of-inputs.png)
+![wrong-init-state-of-inputs.png](./wrong-init-state-of-inputs.png)
 
 The above is the initial state of the app, where you can see that there are many inconsistencies between the information of animation object and animation effect. We can use the information of animation object and animation effect to initialize the values of these inputs, making them consistent with the information of animation object and animation effect.
 
@@ -276,5 +276,5 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 ```
 
-![correct-init-values-of-inputs.png](../assets/imgs/correct-init-values-of-inputs.png)
+![correct-init-values-of-inputs.png](./correct-init-values-of-inputs.png)
 
