@@ -189,10 +189,10 @@ Because there will be some complex animation calculations based on the number of
 
 Now the cards are too close to each other at the start of the animation like this:
 
-![shift-cards-to-left.png](../assets/imgs/shift-cards-to-left.png)
+![shift-cards-to-left.png](./shift-cards-to-left.png)
 We want to add some space between them at the start of the animation, so they look like this:
 
-![shift-cards-with-some-space.png](../assets/imgs/shift-cards-with-some-space.png)
+![shift-cards-with-some-space.png](./shift-cards-with-some-space.png)
 
 ```css
 @keyframes featuresCard {
