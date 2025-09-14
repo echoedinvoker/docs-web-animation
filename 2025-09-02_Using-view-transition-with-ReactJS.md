@@ -82,8 +82,10 @@ export default function App() {
 
     // ...
 
-    document.startViewTransition(() => { // wrap the method to change state by `document.startViewTransition` even React updating DOM behind the scene
-      flushSync(() => { // because React update DOM asynchronously, we need to use `flushSync` to ensure the DOM update immediately
+    document.startViewTransition(() => {
+      // wrap the method to change state by `document.startViewTransition` even React updating DOM behind the scene
+      flushSync(() => {
+        // because React update DOM asynchronously, we need to use `flushSync` to ensure the DOM update immediately
         setTodos(newTodos);
       });
     });
@@ -92,7 +94,8 @@ export default function App() {
     ...
                 <li
                   key={todo.id}
-                  style={{ viewTransitionName: `todo-${todo.id}` }} {/* add unique view transition name to each todo item */}
+                  style={{ viewTransitionName: `todo-${todo.id}` }}
+                  {/* add unique view transition name to each todo item */}
                 >
                   <span>{todo.title}</span>{" "}
                   <button
@@ -114,7 +117,8 @@ export default function App() {
               .map((todo) => (
                 <li
                   key={todo.id}
-                  style={{ viewTransitionName: `todo-${todo.id}` }} {/* add unique view transition name to each todo item */}
+                  style={{ viewTransitionName: `todo-${todo.id}` }}
+                  {/* add unique view transition name to each todo item */}
                 >
                   <span>{todo.title}</span>{" "}
                   <button
@@ -128,8 +132,7 @@ export default function App() {
               ))}
           </ul>
         </div>
-      </div>
-    </main>
+    ...
   );
 }
 ```
