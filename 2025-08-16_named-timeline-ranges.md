@@ -99,8 +99,8 @@ The meaning of `contain` is that the subject should start or end the animation o
 }
 ```
 
-![contain-animation-start.png](../assets/imgs/contain-animation-start.png)
-![contain-animation-end.png](../assets/imgs/contain-animation-end.png)
+![contain-animation-start.png](./contain-animation-start.png)
+![contain-animation-end.png](./contain-animation-end.png)
 
 
 ## `contain` with the subject which is higher than the viewport
@@ -128,9 +128,9 @@ When the subject is higher than the viewport, `contain` will start the animation
 }
 ```
 
-![higher-sub-start.png](../assets/imgs/higher-sub-start.png)
+![higher-sub-start.png](./higher-sub-start.png)
 
-![higher-sub-end.png](../assets/imgs/higher-sub-end.png)
+![higher-sub-end.png](./higher-sub-end.png)
 
 ## `entry`
 
@@ -151,16 +151,16 @@ When the subject is higher than the viewport, `contain` will start the animation
 ```
 
 
-![entry-animation-start.png](../assets/imgs/entry-animation-start.png)
+![entry-animation-start.png](./entry-animation-start.png)
 
-![entry-animation-end.png](../assets/imgs/entry-animation-end.png)
+![entry-animation-end.png](./entry-animation-end.png)
 
 
-![higher-sub-entry-start.png](../assets/imgs/higher-sub-entry-start.png)
+![higher-sub-entry-start.png](./higher-sub-entry-start.png)
 
 When the subject is higher than the viewport, many people may misunderstand the animation end state when using `entry`, please refer to the following figure.
 
-![higher-sub-entry-end.png](../assets/imgs/higher-sub-entry-end.png)
+![higher-sub-entry-end.png](./higher-sub-entry-end.png)
 
 ## `exit`
 
@@ -182,18 +182,18 @@ When the subject is higher than the viewport, many people may misunderstand the 
 ```
 
 
-![exit-animation-start.png](../assets/imgs/exit-animation-start.png)
+![exit-animation-start.png](./exit-animation-start.png)
 
 
 
-![exit-animation-end.png](../assets/imgs/exit-animation-end.png)
+![exit-animation-end.png](./exit-animation-end.png)
 
 
 
-![higher-sub-exit-start.png](../assets/imgs/higher-sub-exit-start.png)
+![higher-sub-exit-start.png](./higher-sub-exit-start.png)
 
 
-![higher-sub-exit-end.png](../assets/imgs/higher-sub-exit-end.png)
+![higher-sub-exit-end.png](./higher-sub-exit-end.png)
 
 ## `entry-crossing`
 
@@ -215,7 +215,7 @@ When the subject is higher than the viewport, many people may misunderstand the 
 ```
 
 
-![higher-sub-entry-crossing-end.png](../assets/imgs/higher-sub-entry-crossing-end.png)
+![higher-sub-entry-crossing-end.png](./higher-sub-entry-crossing-end.png)
 
 
 ## `exit-crossing`
@@ -237,7 +237,7 @@ When the subject is higher than the viewport, many people may misunderstand the 
 ```
 
 
-![higher-sub-exit-crossing-start.png](../assets/imgs/higher-sub-exit-crossing-start.png)
+![higher-sub-exit-crossing-start.png](./higher-sub-exit-crossing-start.png)
 
 ## Tool 
 
