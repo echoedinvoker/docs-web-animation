@@ -1,6 +1,5 @@
 # Using View Transition with ReactJS
 
-```tsx
 import { useState } from "react";
 import { flushSync } from "react-dom";
 import "./App.css";
@@ -66,13 +65,11 @@ export default function App() {
     </main>
   );
 }
-```
 
 Above is a todo list app in ReactJS. In ReactJS, we do not directly update the DOM. Instead, when we give a new value to the state, React will update the DOM for us behind the scene.
 
 So we can only use `document.startViewTransition` to wrap the part that updates the state, but because ReactJS updates the DOM asynchronously, we must use `flushSync` to ensure that the DOM is immediately updated.
 
-```jsx
 // ...
 
 export default function App() {
@@ -135,4 +132,3 @@ export default function App() {
     ...
   );
 }
-```
