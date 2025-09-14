@@ -92,7 +92,7 @@ export default function App() {
     ...
                 <li
                   key={todo.id}
-                  style={{ viewTransitionName: `todo-${todo.id}` }} <!-- add unique view transition name to each todo item -->
+                  style={{ viewTransitionName: `todo-${todo.id}` }} {/* add unique view transition name to each todo item */}
                 >
                   <span>{todo.title}</span>{" "}
                   <button
@@ -114,7 +114,7 @@ export default function App() {
               .map((todo) => (
                 <li
                   key={todo.id}
-                  style={{ viewTransitionName: `todo-${todo.id}` }} <!-- add unique view transition name to each todo item -->
+                  style={{ viewTransitionName: `todo-${todo.id}` }} {/* add unique view transition name to each todo item */}
                 >
                   <span>{todo.title}</span>{" "}
                   <button
