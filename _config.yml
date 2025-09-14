@@ -1,0 +1,36 @@
+# 基本設定
+title: Web Animation 文檔
+description: 關於 Web Animation 的筆記和文檔
+baseurl: "/docs-web-animation"
+url: "https://echoedinvoker.github.io"
+
+# 主題設定
+theme: jekyll-theme-primer
+
+# 插件設定
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+# 文件處理設定
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# 相對連結設定
+relative_links:
+  enabled: true
+  collections: true
+
+# 其他設定
+markdown: kramdown
+kramdown:
+  input: GFM
+
