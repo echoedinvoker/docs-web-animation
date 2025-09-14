@@ -1,9 +1,11 @@
----
-layout: default
-title: Web Animation
----
-[[2025-09-12_transition_|transition_]]
-[[2025-09-12_animation_|animation_]]
-[[2025-09-12_web-animation-API|web animation API]]
-[[2025-09-12_scroll-timeline|scroll timeline]]
-[[2025-09-12_view-transition-API|view transition API]]
+# Title
+
+Test of title
+
+## Subtitle
+
+Test of subtitle
+
+```js
+console.log("Hello, world!");
+```
