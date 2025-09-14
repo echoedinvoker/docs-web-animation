@@ -26,9 +26,9 @@
 
 The above is the CSS code for the road in [animation exercise 1](./2025-08-10_animation-exercise-1.md). Now we want to make this road continuously shift to left in the viewport, so that we can simulate the effect of a person running on the road.
 
-![viewport-street-original.png](../assets/imgs/viewport-street-original.png)
+![viewport-street-original.png](./viewport-street-original.png)
 
-![shift-street-from-vw.png](../assets/imgs/shift-street-from-vw.png)
+![shift-street-from-vw.png](./shift-street-from-vw.png)
 
 ```css
 .ground { /* ground is the container for the street inside the viewport, so we don't need to add any animation to it */
