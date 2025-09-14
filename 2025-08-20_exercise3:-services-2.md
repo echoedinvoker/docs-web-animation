@@ -1,12 +1,3 @@
----
-date: 2025-08-20
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # exercise3: services 2
 
 ```html

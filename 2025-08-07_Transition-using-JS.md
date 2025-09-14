@@ -1,12 +1,3 @@
----
-date: 2025-08-07
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # Transition using JS
 
 ```html

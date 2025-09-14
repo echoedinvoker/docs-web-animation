@@ -1,12 +1,3 @@
----
-date: 2025-08-11
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # about app engine
 
 [Introduce App engine](./2025-07-25_Introduce-App-engine.md)

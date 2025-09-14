@@ -1,12 +1,3 @@
----
-date: 2025-08-26
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # words game exercise: handling duplicated letters
 
 ```js

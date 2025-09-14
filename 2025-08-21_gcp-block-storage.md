@@ -1,12 +1,3 @@
----
-date: 2025-08-21
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # gcp block storage
 
 [Block Storage](./2025-07-29_Block-Storage.md)

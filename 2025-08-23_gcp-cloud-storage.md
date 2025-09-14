@@ -1,12 +1,3 @@
----
-date: 2025-08-23
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # gcp cloud storage
 
 [create a bucket of cloud storage](./2025-07-30_create-a-bucket-of-cloud-storage.md)

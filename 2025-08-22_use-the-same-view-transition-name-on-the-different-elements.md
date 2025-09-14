@@ -1,12 +1,3 @@
----
-date: 2025-08-22
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # use the same view transition name on the different elements
 
 ```js

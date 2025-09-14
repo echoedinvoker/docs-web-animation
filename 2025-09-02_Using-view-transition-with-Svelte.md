@@ -1,12 +1,3 @@
----
-date: 2025-09-02
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # Using view transition with Svelte
 
 ```tsx

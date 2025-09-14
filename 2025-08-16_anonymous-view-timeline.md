@@ -1,12 +1,3 @@
----
-date: 2025-08-16
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # anonymous view timeline
 
 ## Naming a `view-timeline` and applying an animation based on it

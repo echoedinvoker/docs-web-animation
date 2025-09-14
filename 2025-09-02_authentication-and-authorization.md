@@ -1,12 +1,3 @@
----
-date: 2025-09-02
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # authentication and authorization
 
 [IAM](./2025-07-31_IAM.md)

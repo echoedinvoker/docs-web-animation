@@ -1,12 +1,3 @@
----
-date: 2025-08-15
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # anonymous scroll progress timeline
 
 ```html

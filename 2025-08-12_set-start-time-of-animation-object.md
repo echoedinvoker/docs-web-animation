@@ -1,12 +1,3 @@
----
-date: 2025-08-12
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # set start time of animation object
 
 ## Set start time of animation object

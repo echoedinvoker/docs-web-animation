@@ -1,12 +1,3 @@
----
-date: 2025-08-11
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # another way to define keyframe effect
 
 ## Define options in the scope of the keyframe

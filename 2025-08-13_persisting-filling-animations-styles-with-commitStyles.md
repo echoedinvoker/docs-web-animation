@@ -1,12 +1,3 @@
----
-date: 2025-08-13
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # persisting filling animations styles with commitStyles
 
 When we use the `fill` property with `both` or `forwards` value in an animation, the styles of the last frame will be persisted by the browser, not the element. This means that the browser consumes memory for these styles, and they have a higher priority than the styles on the element itself. This can make it difficult to override these styles later. Let's see an example of this behavior.

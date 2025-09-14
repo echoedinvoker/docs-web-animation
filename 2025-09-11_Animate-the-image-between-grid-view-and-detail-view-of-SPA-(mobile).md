@@ -1,12 +1,3 @@
----
-date: 2025-09-11
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # Animate the image between grid view and detail view of SPA (mobile)
 
 ## Prevent the image view transition from taking effect on small screens

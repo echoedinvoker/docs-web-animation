@@ -1,12 +1,3 @@
----
-date: 2025-08-12
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # some notes of app engine
 
 [Remember notes of app engine](./2025-07-27_Remember-notes-of-app-engine.md)

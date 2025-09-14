@@ -1,12 +1,3 @@
----
-date: 2025-09-12
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # using view transition with popular frontend frameworks
 
 [using view transition with ReactJS](./2025-09-02_Using-view-transition-with-ReactJS.md)

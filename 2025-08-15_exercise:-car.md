@@ -1,12 +1,3 @@
----
-date: 2025-08-15
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # exercise: car
 
 ## Create a static car and its wheels

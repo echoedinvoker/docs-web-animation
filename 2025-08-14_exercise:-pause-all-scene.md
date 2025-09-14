@@ -1,12 +1,3 @@
----
-date: 2025-08-14
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # exercise: pause all scene
 
 ```html

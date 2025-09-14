@@ -1,12 +1,3 @@
----
-date: 2025-08-23
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # animate view transition pseudo elements with the WAAP
 
 ```js

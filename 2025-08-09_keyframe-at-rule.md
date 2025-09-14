@@ -1,12 +1,3 @@
----
-date: 2025-08-09
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # keyframe at rule
 
 ## Animation cascading or not?

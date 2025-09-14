@@ -1,12 +1,3 @@
----
-date: 2025-08-07
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # save money for provisioning VMs
 
 [use discounts](./2025-08-07_use-discounts.md)

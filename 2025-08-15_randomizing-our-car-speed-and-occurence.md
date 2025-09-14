@@ -1,12 +1,3 @@
----
-date: 2025-08-15
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # randomizing our car speed and occurence
 
 In the [exercise: car](./2025-08-15_exercise:-car.md), we created a car element and its animation, but the speed is fixed. We can randomize its speed and appearance time.

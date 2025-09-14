@@ -1,12 +1,3 @@
----
-date: 2025-08-12
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # finish promise and events
 
 Whenever we play an animation, a promise `finished` will be created for the animation object. This promise will resolve when the animation is finished.

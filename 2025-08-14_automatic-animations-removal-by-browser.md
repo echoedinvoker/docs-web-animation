@@ -1,12 +1,3 @@
----
-date: 2025-08-14
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # automatic animations removal by browser
 
 ## Mechanism of automatic removal by the browser

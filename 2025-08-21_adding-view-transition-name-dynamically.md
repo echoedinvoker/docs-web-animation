@@ -1,12 +1,3 @@
----
-date: 2025-08-21
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # adding view transition name dynamically
 
 ## Isolate the grid from the root pseudo-element (already implemented slide in/out transition)

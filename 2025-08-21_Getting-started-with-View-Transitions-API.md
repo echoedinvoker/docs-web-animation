@@ -1,12 +1,3 @@
----
-date: 2025-08-21
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # Getting started with View Transitions API
 
 ```html

@@ -1,12 +1,3 @@
----
-date: 2025-09-12
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # web animation API
 
 [when to use web animations API](./2025-08-10_when-to-use-web-animations-API.md)

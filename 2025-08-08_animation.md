@@ -1,12 +1,3 @@
----
-date: 2025-08-08
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # animation
 
 In transition, we can only animate from one state to another. We do not have control over the intermediate states. And transition need to be triggered by an event, such as a click or a hover. But sometimes we want to animate without any user interaction, such as a loading spinner or a progress bar. In this case, we can use the `animations`.

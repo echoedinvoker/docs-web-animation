@@ -1,12 +1,3 @@
----
-date: 2025-08-15
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # named scroll progress timeline
 
 ## Introduction of named scroll progress timeline

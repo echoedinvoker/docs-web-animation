@@ -1,12 +1,3 @@
----
-date: 2025-08-21
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # gcp backup
 
 [gcp snapshot](./2025-08-21_gcp-snapshot.md)

@@ -1,12 +1,3 @@
----
-date: 2025-09-12
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # cross document view transition
 
 [cross documents view transition](./2025-09-12_cross-documents-view-transition.md)

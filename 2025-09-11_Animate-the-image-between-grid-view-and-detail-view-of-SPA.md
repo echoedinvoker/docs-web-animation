@@ -1,12 +1,3 @@
----
-date: 2025-09-11
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # Animate the image between grid view and detail view of SPA
 
 We want to implement a smooth transition animation when clicking on an image in grid view to enter detail view. This can be achieved by giving the images on two different pages the same `view-transition-name`.

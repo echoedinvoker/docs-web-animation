@@ -1,12 +1,3 @@
----
-date: 2025-09-11
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # compare to Vue about how to implement view transition between routes (AI)
 
 Vue 與 SvelteKit 在處理路由切換的 View Transition 上有不同的實現方式。Vue 沒有直接等同於 SvelteKit 的 `onNavigate` 函數，但可以通過以下方式實現類似功能：

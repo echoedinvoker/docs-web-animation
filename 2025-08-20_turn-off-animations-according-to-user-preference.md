@@ -1,12 +1,3 @@
----
-date: 2025-08-20
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # turn off animations according to user preference
 
 ```html

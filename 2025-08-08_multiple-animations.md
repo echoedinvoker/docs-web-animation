@@ -1,12 +1,3 @@
----
-date: 2025-08-08
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # multiple animations
 
 ```css

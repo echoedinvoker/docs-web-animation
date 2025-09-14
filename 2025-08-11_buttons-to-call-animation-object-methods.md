@@ -1,12 +1,3 @@
----
-date: 2025-08-11
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # buttons to call animation object methods
 
 ```html

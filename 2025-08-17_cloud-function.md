@@ -1,12 +1,3 @@
----
-date: 2025-08-17
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # cloud function
 
 [Cloud functions](./2025-07-28_Cloud-functions.md)

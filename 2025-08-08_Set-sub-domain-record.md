@@ -1,12 +1,3 @@
----
-date: 2025-08-08
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # Set sub domain record
 
 要為現有域名設定子網域，您需要在同一個 DNS Zone 中添加一個新的 DNS 記錄。這是一個簡單的過程，不需要建立新的 Zone。

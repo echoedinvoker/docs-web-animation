@@ -1,12 +1,3 @@
----
-date: 2025-08-07
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # Transition events
 
 When we apply a transition to an element, the element will emit several events during the transition process. These events can be used to trigger additional actions or to monitor the progress of the transition.

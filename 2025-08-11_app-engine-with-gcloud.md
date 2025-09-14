@@ -1,12 +1,3 @@
----
-date: 2025-08-11
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # app engine with gcloud
 
 [create a app engine project by gcloud](./2025-07-26_Create-a-app-engine-project-by-gcloud.md)

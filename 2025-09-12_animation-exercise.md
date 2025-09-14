@@ -1,12 +1,3 @@
----
-date: 2025-09-12
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # animation exercise
 
 [animation exercise 1](./2025-08-10_animation-exercise-1.md)

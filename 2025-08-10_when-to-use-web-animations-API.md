@@ -1,12 +1,3 @@
----
-date: 2025-08-10
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # when to use web animations API
 
 Below we have an element called `square` and we apply a simple animation called `moveAndRotate` to it.

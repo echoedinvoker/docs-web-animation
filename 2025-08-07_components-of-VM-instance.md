@@ -1,12 +1,3 @@
----
-date: 2025-08-07
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # components of VM instance
 
 [machine](./2025-08-07_machine.md)

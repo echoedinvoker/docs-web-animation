@@ -1,12 +1,3 @@
----
-date: 2025-09-11
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # prepare sveltekit project for demo view transition on SPA
 
 ```bash

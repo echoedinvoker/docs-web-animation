@@ -1,12 +1,3 @@
----
-date: 2025-08-10
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # create first animation using web animations API
 
 ```html

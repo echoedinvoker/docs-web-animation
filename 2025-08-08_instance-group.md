@@ -1,12 +1,3 @@
----
-date: 2025-08-08
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # instance group
 
 [instance groups](./2025-07-23_Instance-groups.md)

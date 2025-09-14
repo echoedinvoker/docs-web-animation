@@ -1,12 +1,3 @@
----
-date: 2025-08-12
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # some other yaml files for app engine
 
 [app engine: cron job](./2025-07-27_app-engine:-cron-job.md)

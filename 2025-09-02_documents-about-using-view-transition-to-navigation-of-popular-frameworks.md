@@ -1,12 +1,3 @@
----
-date: 2025-09-02
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # documents about using view transition to navigation of popular frameworks
 
 Every popular SPA framework has documentation on how to use view transition when navigating to other pages, except for Next.js.

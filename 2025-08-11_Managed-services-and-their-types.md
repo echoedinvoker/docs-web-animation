@@ -1,12 +1,3 @@
----
-date: 2025-08-11
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # Managed services and their types
 
 [IaaS and PaaS](./2025-07-25_IaaS-and-PaaS.md)

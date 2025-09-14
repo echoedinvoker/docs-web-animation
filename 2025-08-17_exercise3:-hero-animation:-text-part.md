@@ -1,12 +1,3 @@
----
-date: 2025-08-17
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # exercise3: hero animation: text part
 
 ```html

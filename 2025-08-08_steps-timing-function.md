@@ -1,12 +1,3 @@
----
-date: 2025-08-08
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # steps timing function
 
 `steps()` timing function causes an animation to jump from one keyframe to the next without any intermediate frames.

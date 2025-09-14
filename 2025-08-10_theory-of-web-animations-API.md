@@ -1,12 +1,3 @@
----
-date: 2025-08-10
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # theory of web animations API
 
 Web Animations API has two models:

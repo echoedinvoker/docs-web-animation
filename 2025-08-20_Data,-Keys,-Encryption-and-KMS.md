@@ -1,12 +1,3 @@
----
-date: 2025-08-20
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # Data, Keys, Encryption and KMS
 
 [Data states](./2025-07-29_Data-states.md)

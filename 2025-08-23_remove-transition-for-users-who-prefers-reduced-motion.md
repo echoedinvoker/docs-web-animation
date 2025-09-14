@@ -1,12 +1,3 @@
----
-date: 2025-08-23
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # remove transition for users who prefers reduced motion
 
 ```js

@@ -1,12 +1,3 @@
----
-date: 2025-08-09
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # load balancing
 
 [High level view of load balancing](./2025-07-24_high-level-view-of-load-balancing.md)

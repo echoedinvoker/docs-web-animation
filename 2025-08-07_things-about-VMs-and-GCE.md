@@ -1,12 +1,3 @@
----
-date: 2025-08-07
-type: fact
-aliases:
-  -
-hubs:
-  - "[gcp](./gcp.md)"
----
-
 # things about VMs and GCE
 
 [Notes for Virtual Machine](./2025-07-22_Notes-for-Virtual-Machine.md)

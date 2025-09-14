@@ -1,12 +1,3 @@
----
-date: 2025-08-07
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # discrete animation exception
 
 Usually, discrete animation switches to the end state in the middle of the duration, except for the display property.

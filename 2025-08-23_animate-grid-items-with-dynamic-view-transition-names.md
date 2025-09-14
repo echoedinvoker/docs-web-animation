@@ -1,12 +1,3 @@
----
-date: 2025-08-23
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # animate grid items with dynamic view transition names
 
 ```js

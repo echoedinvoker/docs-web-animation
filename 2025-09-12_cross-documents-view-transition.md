@@ -1,12 +1,3 @@
----
-date: 2025-09-12
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # cross documents view transition
 
 Previously, we introduced the way to implement view transition for a single page. Therefore, we all used `document.startViewTransition` to trigger view transition. But if we want to use view transition in a cross-document context, how can we do it? Actually, it's very simple. We just need to use `@view-transition` in CSS, and the browser will automatically handle the cross-document view transition for us.

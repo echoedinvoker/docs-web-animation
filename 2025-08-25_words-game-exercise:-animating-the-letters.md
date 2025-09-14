@@ -1,12 +1,3 @@
----
-date: 2025-08-25
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # words game exercise: animating the letters
 
 ```html

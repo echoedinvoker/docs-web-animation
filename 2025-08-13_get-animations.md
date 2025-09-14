@@ -1,12 +1,3 @@
----
-date: 2025-08-13
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # get animations
 
 ```html

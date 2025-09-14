@@ -1,12 +1,3 @@
----
-date: 2025-08-16
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # named timeline ranges
 
 ```html

@@ -1,12 +1,3 @@
----
-date: 2025-09-12
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # scroll timeline
 
 [overview of scroll timeline and preparation](./2025-08-15_Overview-of-scroll-timeline-and-preparation.md)

@@ -1,12 +1,3 @@
----
-date: 2025-09-11
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # use onNavigate to init view transition between routes
 
 `onNavigate` is a function that fires whenever a navigation happens in a SvelteKit app. We can use it in our root layout because it always exists even when we navigate between routes.

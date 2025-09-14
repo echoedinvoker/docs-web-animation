@@ -1,12 +1,3 @@
----
-date: 2025-08-12
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # get informations of animations
 
 Below, we add a button in the interface to obtain information about the animation object and animation effect.

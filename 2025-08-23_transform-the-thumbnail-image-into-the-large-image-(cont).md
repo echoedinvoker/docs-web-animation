@@ -1,12 +1,3 @@
----
-date: 2025-08-23
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # transform the thumbnail image into the large image (cont)
 
 ```js

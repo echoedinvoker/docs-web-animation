@@ -1,12 +1,3 @@
----
-date: 2025-08-10
-type: fact
-aliases:
-  -
-hubs:
-  - "[web-animation](./web-animation.md)"
----
-
 # animation exercise 1
 
 Below is a simple pre-work for animation practice (not including animation yet), including HTML and CSS structure with elements such as sky, road, characters, etc. The character uses an 8-frame sprite for future animation implementation. The purpose of this exercise is to familiarize students with how to use CSS to design and layout a simple animated scene.
