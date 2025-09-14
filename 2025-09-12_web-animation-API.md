@@ -1,0 +1,17 @@
+# web animation API
+
+[when to use web animations API](./2025-08-10_when-to-use-web-animations-API.md)
+[theory of web animations API](./2025-08-10_theory-of-web-animations-API.md)
+[create first animation using web animations API](./2025-08-10_create-first-animation-using-web-animations-API.md)
+[another way to define keyframe effect](./2025-08-11_another-way-to-define-keyframe-effect.md)
+[iteration composite](./2025-08-11_iteration-composite.md)
+[buttons to call animation object methods](./2025-08-11_buttons-to-call-animation-object-methods.md)
+[update keyframe effect](./2025-08-11_update-keyframe-effect.md)
+[get informations of animations](./2025-08-12_get-informations-of-animations.md)
+[set current time of animation object](./2025-08-12_set-current-time-of-animation-object.md)
+[set start time of animation object](./2025-08-12_set-start-time-of-animation-object.md)
+[pending state](./2025-08-12_pending-state.md)
+[finish promise and events](./2025-08-12_finish-promise-and-events.md)
+[get animations](./2025-08-13_get-animations.md)
+[persisting filling animations styles with commitStyles](./2025-08-13_persisting-filling-animations-styles-with-commitStyles.md)
+[exercise 1](./2025-09-12_exercise-1.md)
