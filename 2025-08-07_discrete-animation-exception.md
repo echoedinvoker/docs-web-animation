@@ -1,4 +1,4 @@
-# discrete animation exception
+# Discrete Animation Exception
 
 Usually, discrete animation switches to the end state in the middle of the duration, except for the display property.
 

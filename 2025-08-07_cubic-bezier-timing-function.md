@@ -1,4 +1,4 @@
-# cubic bezier timing function
+# Cubic Bezier Timing Function
 
 ## How to create smooth progress/time paths
 

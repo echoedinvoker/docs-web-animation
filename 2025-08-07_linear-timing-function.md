@@ -1,4 +1,4 @@
-# linear timing function
+# Linear Timing Function
 
 ```html
 <!DOCTYPE html>

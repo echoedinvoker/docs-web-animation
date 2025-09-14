@@ -1,4 +1,4 @@
-# steps timing function
+# Steps Timing Function
 
 `steps()` timing function causes an animation to jump from one keyframe to the next without any intermediate frames.
 

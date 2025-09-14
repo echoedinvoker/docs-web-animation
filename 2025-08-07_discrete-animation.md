@@ -1,4 +1,4 @@
-# discrete animation
+# Discrete Animation
 
 ```html
 <!DOCTYPE html>
