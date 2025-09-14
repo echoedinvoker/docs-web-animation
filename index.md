@@ -10,4 +10,9 @@ Test of subtitle
 console.log("Hello, world!");
 ```
 
+### Test of link
+
 [New Node](./new-node.md)
+
+[New Node](./new-node.html)
+
