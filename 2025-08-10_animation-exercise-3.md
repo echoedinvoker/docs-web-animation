@@ -30,6 +30,7 @@ The above is the CSS code for the road in [animation exercise 1](./2025-08-10_an
 
 ![shift-street-from-vw.png](./shift-street-from-vw.png)
 
+
 ```css
 .ground { /* ground is the container for the street inside the viewport, so we don't need to add any animation to it */
   height: 50vh;
